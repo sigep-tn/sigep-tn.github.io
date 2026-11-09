@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 64" role="img" aria-labelledby="t"><title id="t">SIGEP, installation photovoltaïque</title><defs>
+  <linearGradient id="sg-soleil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD15C"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+  <linearGradient id="sg-panneau" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3B8BF0"/><stop offset="1" stop-color="#0B3D91"/></linearGradient>
+</defs><circle cx="42" cy="27" r="13" fill="url(#sg-soleil)"/>
+<path d="M14 33 H50 L60 57 H4 Z" fill="url(#sg-panneau)"/>
+<path d="M26 33 L22.7 57 M38 33 L41.3 57 M9 45 H55" stroke="#FFFFFF" stroke-width="2.4" fill="none"/><g transform="translate(82 3.2) scale(.9)"><g fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M25 18 C22 13.5 18 12 14 12 C8 12 3.5 15.5 3.5 21.5 C3.5 27.5 9 30 14 32 C19 34 24.5 36.5 24.5 42.5 C24.5 48.5 20 52 14 52 C9.5 52 5.5 50 3 46"/>
+<path d="M44 12 V52"/>
+<path d="M98.3 19.1 A20 20 0 1 0 103 32 H86"/>
+<path d="M146 12 H122 V52 H146 M122 32 H142"/>
+<path d="M165 52 V12 H177 A10 10 0 0 1 177 32 H165"/></g></g></svg>
