@@ -30,22 +30,3 @@ Pour changer de nom de compte, changer l'adresse dans `../outils/donnees.py` (va
 
 Dans [Google Search Console](https://search.google.com/search-console), ajouter `https://sigep-tn.github.io/`, valider
 avec la balise HTML proposée, puis envoyer `sitemap.xml`.
-
-## Modifier le site
-
-Les pages sont générées depuis `D:\SIGEP_V2\site_web_sigep\outils` (textes dans `textes.py`, coordonnées et
-réalisations dans `donnees.py`). Après une modification :
-
-```bash
-cd D:/SIGEP_V2/site_web_sigep
-python outils/medias.py
-python outils/pages.py
-```
-
-## Tester en local
-
-```bash
-python -m http.server 8093 --directory D:/SIGEP_V2/site_web_sigep/site
-```
-
-Puis ouvrir <http://localhost:8093>.
